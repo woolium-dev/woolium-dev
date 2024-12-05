@@ -1,8 +1,3 @@
-WOOLIUM README
-
-
-
-                                                   
                                                    woolium@github
                              +                     __________________
                            =***+                   OS: EndeavourOS 
